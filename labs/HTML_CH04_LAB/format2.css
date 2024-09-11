@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+  color: green;
+}
+a:link {
+  background-color: white;
+}
+h1, h2, p {
+  font-family: "Times New Roman";
+  background-color: white;
+  color: green;
+}
