@@ -1,0 +1,11 @@
+.jumbotron {
+  background-image: url(OIP.jpg);
+  padding: 5%;
+  margin: 10%;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}

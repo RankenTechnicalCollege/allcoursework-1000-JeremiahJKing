@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: url(bd15278337ed81cbb9d1ae4d212fcd1e.jpg);
+  background-color: white;
+  text-shadow: 2px 2px white;
+  padding: 5%;
+  margin: 10%;
+}
+
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
